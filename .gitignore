@@ -45,6 +45,9 @@ local.properties
 # External tool builders
 .externalToolBuilders/
 
+# Bloop out Bloop
+.bloop/*
+
 # Locally stored "Eclipse launch configurations"
 *.launch
 
