@@ -1,0 +1,8 @@
+# 99 Scala Problems 
+
+Diving into a classic problem set
+
+References: 
+
+- Problem set http://aperiodic.net/phil/scala/s-99/
+- What I think is the original set of problems in prolog https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
